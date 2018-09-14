@@ -1,36 +1,36 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="venusportfolio.com" resolutions="1x,2x" timestamp="1536890877152">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="venusportfolio.com" resolutions="1x,2x" timestamp="1536917288994">
   <folder name="css">
     <file name="site_global.css" crc="3940487607"/>
-    <file name="index.css" crc="9403316" ref="index"/>
-    <file name="fall-alone.css" crc="3993012936" ref="fall-alone"/>
-    <file name="nomq_fall-alone.css" crc="4093662213" ref="fall-alone"/>
-    <file name="finding-jippy.css" crc="4143999626" ref="finding-jippy"/>
-    <file name="nomq_finding-jippy.css" crc="3856068029" ref="finding-jippy"/>
-    <file name="write-right.css" crc="4101138176" ref="write-right"/>
-    <file name="photography.css" crc="4190729155" ref="photography"/>
-    <file name="you-are-my-gravity.css" crc="3999733568" ref="you-are-my-gravity"/>
-    <file name="staysweet.css" crc="346069579" ref="staysweet"/>
-    <file name="video-pj.css" crc="106133855" ref="video-pj"/>
-    <file name="nomq_video-pj.css" crc="137170895" ref="video-pj"/>
-    <file name="hyde-park-impression.css" crc="149698082" ref="hyde-park-impression"/>
-    <file name="nomq_hyde-park-impression.css" crc="3817732658" ref="hyde-park-impression"/>
-    <file name="ryb-tunnel.css" crc="4172788062" ref="ryb-tunnel"/>
-    <file name="contact.css" crc="273204630" ref="contact"/>
-    <file name="painting.css" crc="327547194" ref="painting"/>
-    <file name="nomq_painting.css" crc="3869838720" ref="painting"/>
-    <file name="bo.css" crc="3808668367" ref="bo"/>
-    <file name="dino-with-feather.css" crc="4067605317" ref="dino-with-feather"/>
-    <file name="my-dog-eats-better-than-me.css" crc="3840432176" ref="my-dog-eats-better-than-me"/>
-    <file name="nomq_my-dog-eats-better-than-me.css" crc="3819926291" ref="my-dog-eats-better-than-me"/>
-    <file name="i-can-t-see-your-face.css" crc="16809682" ref="i-can-t-see-your-face"/>
-    <file name="half-moon.css" crc="4000511590" ref="half-moon"/>
-    <file name="nomq_half-moon.css" crc="3978679561" ref="half-moon"/>
-    <file name="fancy-estate.css" crc="4180659857" ref="fancy-estate"/>
-    <file name="nomq_fancy-estate.css" crc="263472820" ref="fancy-estate"/>
-    <file name="ryb-in-taichung.css" crc="4138390133" ref="ryb-in-taichung"/>
-    <file name="obsession.css" crc="3796754873" ref="obsession"/>
-    <file name="graphic.css" crc="191929913" ref="graphic"/>
     <file name="gimmie-gummy.css" crc="246965553" ref="gimmie-gummy"/>
+    <file name="my-dog-eats-better-than-me.css" crc="3828083081" ref="my-dog-eats-better-than-me"/>
+    <file name="nomq_my-dog-eats-better-than-me.css" crc="3819926291" ref="my-dog-eats-better-than-me"/>
+    <file name="fancy-estate.css" crc="4152820454" ref="fancy-estate"/>
+    <file name="nomq_fancy-estate.css" crc="263472820" ref="fancy-estate"/>
+    <file name="hyde-park-impression.css" crc="395262905" ref="hyde-park-impression"/>
+    <file name="nomq_hyde-park-impression.css" crc="3817732658" ref="hyde-park-impression"/>
+    <file name="write-right.css" crc="4101138176" ref="write-right"/>
+    <file name="half-moon.css" crc="4021477693" ref="half-moon"/>
+    <file name="nomq_half-moon.css" crc="3978679561" ref="half-moon"/>
+    <file name="i-can-t-see-your-face.css" crc="16809682" ref="i-can-t-see-your-face"/>
+    <file name="fall-alone.css" crc="493783680" ref="fall-alone"/>
+    <file name="nomq_fall-alone.css" crc="4093662213" ref="fall-alone"/>
+    <file name="dino-with-feather.css" crc="4067605317" ref="dino-with-feather"/>
+    <file name="you-are-my-gravity.css" crc="3999733568" ref="you-are-my-gravity"/>
+    <file name="bo.css" crc="3808668367" ref="bo"/>
+    <file name="graphic.css" crc="191929913" ref="graphic"/>
+    <file name="contact.css" crc="3881085916" ref="contact"/>
+    <file name="ryb-tunnel.css" crc="4172788062" ref="ryb-tunnel"/>
+    <file name="photography.css" crc="3898861403" ref="photography"/>
+    <file name="staysweet.css" crc="346069579" ref="staysweet"/>
+    <file name="obsession.css" crc="3796754873" ref="obsession"/>
+    <file name="finding-jippy.css" crc="4235545432" ref="finding-jippy"/>
+    <file name="nomq_finding-jippy.css" crc="3856068029" ref="finding-jippy"/>
+    <file name="ryb-in-taichung.css" crc="4138390133" ref="ryb-in-taichung"/>
+    <file name="video-pj.css" crc="69139952" ref="video-pj"/>
+    <file name="nomq_video-pj.css" crc="137170895" ref="video-pj"/>
+    <file name="painting.css" crc="10402733" ref="painting"/>
+    <file name="nomq_painting.css" crc="3869838720" ref="painting"/>
+    <file name="index.css" crc="9403316" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="london-may.mp4" crc="418791069" seo="true" mt="1515046694000"/>
@@ -114,60 +114,59 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted-svg-297779x248.svg" crc="4203337627" seo="true" ref="phone>index:phone>staysweet:phone>you-are-my-gravity:phone>graphic:phone>write-right:phone>photography:phone>ryb-in-taichung:phone>gimmie-gummy:phone>my-dog-eats-better-than-me:phone>fall-alone:phone>hyde-park-impression:phone>finding-jippy:phone>fancy-estate:phone>i-can-t-see-your-face:phone>half-moon:phone>dino-with-feather:phone>ryb-tunnel:phone>bo:phone>obsession:phone>video-pj:phone>painting:phone>contact:index:contact:staysweet:you-are-my-gravity:write-right:graphic:obsession:photography:video-pj:painting:ryb-in-taichung:gimmie-gummy:fall-alone:hyde-park-impression:fancy-estate:i-can-t-see-your-face:half-moon:dino-with-feather:ryb-tunnel:bo:my-dog-eats-better-than-me:finding-jippy">
-      <caption webpage="you-are-my-gravity" alt=""/>
-      <caption webpage="you-are-my-gravity" alt=""/>
-      <caption webpage="dino-with-feather" alt=""/>
-      <caption webpage="dino-with-feather" alt=""/>
-      <caption webpage="ryb-in-taichung" alt=""/>
-      <caption webpage="ryb-in-taichung" alt=""/>
-      <caption webpage="graphic" alt=""/>
-      <caption webpage="graphic" alt=""/>
       <caption webpage="write-right" alt=""/>
       <caption webpage="write-right" alt=""/>
-      <caption webpage="fall-alone" alt=""/>
-      <caption webpage="fall-alone" alt=""/>
-      <caption webpage="fall-alone" alt=""/>
       <caption webpage="finding-jippy" alt=""/>
       <caption webpage="finding-jippy" alt=""/>
       <caption webpage="finding-jippy" alt=""/>
-      <caption webpage="ryb-tunnel" alt=""/>
-      <caption webpage="ryb-tunnel" alt=""/>
-      <caption webpage="fancy-estate" alt=""/>
-      <caption webpage="fancy-estate" alt=""/>
-      <caption webpage="fancy-estate" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
+      <caption webpage="ryb-in-taichung" alt=""/>
+      <caption webpage="ryb-in-taichung" alt=""/>
+      <caption webpage="fall-alone" alt=""/>
+      <caption webpage="fall-alone" alt=""/>
+      <caption webpage="fall-alone" alt=""/>
       <caption webpage="i-can-t-see-your-face" alt=""/>
       <caption webpage="i-can-t-see-your-face" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="half-moon" alt=""/>
-      <caption webpage="half-moon" alt=""/>
-      <caption webpage="half-moon" alt=""/>
-      <caption webpage="obsession" alt=""/>
-      <caption webpage="obsession" alt=""/>
-      <caption webpage="video-pj" alt=""/>
-      <caption webpage="video-pj" alt=""/>
-      <caption webpage="video-pj" alt=""/>
-      <caption webpage="bo" alt=""/>
-      <caption webpage="bo" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="hyde-park-impression" alt=""/>
-      <caption webpage="hyde-park-impression" alt=""/>
-      <caption webpage="hyde-park-impression" alt=""/>
-      <caption webpage="painting" alt=""/>
-      <caption webpage="painting" alt=""/>
-      <caption webpage="painting" alt=""/>
-      <caption webpage="staysweet" alt=""/>
-      <caption webpage="staysweet" alt=""/>
       <caption webpage="gimmie-gummy" alt=""/>
       <caption webpage="gimmie-gummy" alt=""/>
+      <caption webpage="you-are-my-gravity" alt=""/>
+      <caption webpage="you-are-my-gravity" alt=""/>
+      <caption webpage="staysweet" alt=""/>
+      <caption webpage="staysweet" alt=""/>
       <caption webpage="my-dog-eats-better-than-me" alt=""/>
       <caption webpage="my-dog-eats-better-than-me" alt=""/>
       <caption webpage="my-dog-eats-better-than-me" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="dino-with-feather" alt=""/>
+      <caption webpage="dino-with-feather" alt=""/>
+      <caption webpage="bo" alt=""/>
+      <caption webpage="bo" alt=""/>
+      <caption webpage="painting" alt=""/>
+      <caption webpage="painting" alt=""/>
+      <caption webpage="painting" alt=""/>
+      <caption webpage="fancy-estate" alt=""/>
+      <caption webpage="fancy-estate" alt=""/>
+      <caption webpage="fancy-estate" alt=""/>
+      <caption webpage="half-moon" alt=""/>
+      <caption webpage="half-moon" alt=""/>
+      <caption webpage="half-moon" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="video-pj" alt=""/>
+      <caption webpage="video-pj" alt=""/>
+      <caption webpage="video-pj" alt=""/>
+      <caption webpage="obsession" alt=""/>
+      <caption webpage="obsession" alt=""/>
+      <caption webpage="hyde-park-impression" alt=""/>
+      <caption webpage="hyde-park-impression" alt=""/>
+      <caption webpage="hyde-park-impression" alt=""/>
+      <caption webpage="ryb-tunnel" alt=""/>
+      <caption webpage="ryb-tunnel" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="pasted svg 297779x248_poster_.png" crc="3980660497" ref="phone>index"/>
+    <file name="pasted svg 297779x248_poster_.png" crc="3980660497" ref="phone>index:contact"/>
     <file name="u11551_states.png" crc="331283442" ref="phone>index"/>
     <file name="u11551_states_2x.png" crc="354861575" ref="phone>index"/>
     <file name="u11551_states-r.png" crc="4230051451" ref="phone>index"/>
@@ -181,61 +180,60 @@
     <file name="u11547_states-r.png" crc="20292603" ref="phone>index"/>
     <file name="u11547_states-r_2x.png" crc="116422955" ref="phone>index"/>
     <file name="pasted-svg-357241x60.svg" crc="3996160950" seo="true" ref="phone>index:phone>staysweet:phone>you-are-my-gravity:phone>graphic:phone>write-right:phone>photography:phone>ryb-in-taichung:phone>gimmie-gummy:phone>my-dog-eats-better-than-me:phone>fall-alone:phone>hyde-park-impression:phone>finding-jippy:phone>fancy-estate:phone>i-can-t-see-your-face:phone>half-moon:phone>dino-with-feather:phone>ryb-tunnel:phone>bo:phone>obsession:phone>video-pj:phone>painting:phone>contact:index:contact:staysweet:you-are-my-gravity:write-right:graphic:obsession:photography:video-pj:painting:ryb-in-taichung:gimmie-gummy:fall-alone:hyde-park-impression:fancy-estate:i-can-t-see-your-face:half-moon:dino-with-feather:ryb-tunnel:bo:my-dog-eats-better-than-me:finding-jippy">
-      <caption webpage="you-are-my-gravity" alt=""/>
-      <caption webpage="you-are-my-gravity" alt=""/>
-      <caption webpage="dino-with-feather" alt=""/>
-      <caption webpage="dino-with-feather" alt=""/>
+      <caption webpage="write-right" alt=""/>
+      <caption webpage="write-right" alt=""/>
+      <caption webpage="write-right" alt=""/>
+      <caption webpage="finding-jippy" alt=""/>
+      <caption webpage="finding-jippy" alt=""/>
+      <caption webpage="finding-jippy" alt=""/>
       <caption webpage="ryb-in-taichung" alt=""/>
       <caption webpage="ryb-in-taichung" alt=""/>
-      <caption webpage="graphic" alt=""/>
-      <caption webpage="graphic" alt=""/>
-      <caption webpage="write-right" alt=""/>
-      <caption webpage="write-right" alt=""/>
-      <caption webpage="write-right" alt=""/>
       <caption webpage="fall-alone" alt=""/>
       <caption webpage="fall-alone" alt=""/>
       <caption webpage="fall-alone" alt=""/>
-      <caption webpage="finding-jippy" alt=""/>
-      <caption webpage="finding-jippy" alt=""/>
-      <caption webpage="finding-jippy" alt=""/>
-      <caption webpage="ryb-tunnel" alt=""/>
-      <caption webpage="ryb-tunnel" alt=""/>
-      <caption webpage="fancy-estate" alt=""/>
-      <caption webpage="fancy-estate" alt=""/>
-      <caption webpage="fancy-estate" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
       <caption webpage="i-can-t-see-your-face" alt=""/>
       <caption webpage="i-can-t-see-your-face" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="half-moon" alt=""/>
-      <caption webpage="half-moon" alt=""/>
-      <caption webpage="half-moon" alt=""/>
-      <caption webpage="obsession" alt=""/>
-      <caption webpage="obsession" alt=""/>
-      <caption webpage="video-pj" alt=""/>
-      <caption webpage="video-pj" alt=""/>
-      <caption webpage="video-pj" alt=""/>
-      <caption webpage="bo" alt=""/>
-      <caption webpage="bo" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="hyde-park-impression" alt=""/>
-      <caption webpage="hyde-park-impression" alt=""/>
-      <caption webpage="hyde-park-impression" alt=""/>
-      <caption webpage="painting" alt=""/>
-      <caption webpage="painting" alt=""/>
-      <caption webpage="painting" alt=""/>
-      <caption webpage="staysweet" alt=""/>
-      <caption webpage="staysweet" alt=""/>
       <caption webpage="gimmie-gummy" alt=""/>
       <caption webpage="gimmie-gummy" alt=""/>
+      <caption webpage="you-are-my-gravity" alt=""/>
+      <caption webpage="you-are-my-gravity" alt=""/>
+      <caption webpage="staysweet" alt=""/>
+      <caption webpage="staysweet" alt=""/>
       <caption webpage="my-dog-eats-better-than-me" alt=""/>
       <caption webpage="my-dog-eats-better-than-me" alt=""/>
       <caption webpage="my-dog-eats-better-than-me" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="dino-with-feather" alt=""/>
+      <caption webpage="dino-with-feather" alt=""/>
+      <caption webpage="bo" alt=""/>
+      <caption webpage="bo" alt=""/>
+      <caption webpage="painting" alt=""/>
+      <caption webpage="painting" alt=""/>
+      <caption webpage="painting" alt=""/>
+      <caption webpage="fancy-estate" alt=""/>
+      <caption webpage="fancy-estate" alt=""/>
+      <caption webpage="fancy-estate" alt=""/>
+      <caption webpage="half-moon" alt=""/>
+      <caption webpage="half-moon" alt=""/>
+      <caption webpage="half-moon" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="video-pj" alt=""/>
+      <caption webpage="video-pj" alt=""/>
+      <caption webpage="video-pj" alt=""/>
+      <caption webpage="obsession" alt=""/>
+      <caption webpage="obsession" alt=""/>
+      <caption webpage="hyde-park-impression" alt=""/>
+      <caption webpage="hyde-park-impression" alt=""/>
+      <caption webpage="hyde-park-impression" alt=""/>
+      <caption webpage="ryb-tunnel" alt=""/>
+      <caption webpage="ryb-tunnel" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="pasted svg 357241x60_poster_.png" crc="84067327" ref="phone>index"/>
+    <file name="pasted svg 357241x60_poster_.png" crc="3998699928" ref="phone>index:contact"/>
     <file name="u11666_states.png" crc="33157165" ref="phone>index"/>
     <file name="u11666_states_2x.png" crc="4016854191" ref="phone>index"/>
     <file name="u11666_states-r.png" crc="4068195246" ref="phone>index"/>
@@ -296,10 +294,10 @@
     <file name="_1250277-edit346x248_2x.jpg" crc="4266419308" seo="true" ref="phone>staysweet">
       <caption webpage="staysweet" alt=""/>
     </file>
-    <file name="_1190188-crop-u11869.jpg" crc="331012163" seo="true" ref="phone>staysweet">
+    <file name="_1190188-crop-u11869.jpg" crc="3770009664" seo="true" ref="phone>staysweet">
       <caption webpage="staysweet" alt=""/>
     </file>
-    <file name="_1190188-crop-u11869_2x.jpg" crc="3778682839" seo="true" ref="phone>staysweet">
+    <file name="_1190188-crop-u11869_2x.jpg" crc="4210120304" seo="true" ref="phone>staysweet">
       <caption webpage="staysweet" alt=""/>
     </file>
     <file name="u11887_states.png" crc="199521482" ref="phone>staysweet"/>
@@ -432,10 +430,10 @@
     <file name="mockup1-crop-u12200_2x.jpg" crc="4259210435" seo="true" ref="phone>you-are-my-gravity">
       <caption webpage="you-are-my-gravity" alt=""/>
     </file>
-    <file name="mockup2-crop-u12202.jpg" crc="84586502" seo="true" ref="phone>you-are-my-gravity">
+    <file name="mockup2-crop-u12202.jpg" crc="103064349" seo="true" ref="phone>you-are-my-gravity">
       <caption webpage="you-are-my-gravity" alt=""/>
     </file>
-    <file name="mockup2-crop-u12202_2x.jpg" crc="45355559" seo="true" ref="phone>you-are-my-gravity">
+    <file name="mockup2-crop-u12202_2x.jpg" crc="4000283393" seo="true" ref="phone>you-are-my-gravity">
       <caption webpage="you-are-my-gravity" alt=""/>
     </file>
     <file name="mockup3-crop-u12198.jpg" crc="12928988" seo="true" ref="phone>you-are-my-gravity">
@@ -1408,9 +1406,8 @@
     </file>
     <file name="pasted-svg-2195162x1994.svg" crc="235724062" seo="true" ref="phone>contact:contact">
       <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
     </file>
-    <file name="pasted svg 2195162x1994_poster_.png" crc="493423612" ref="phone>contact"/>
+    <file name="pasted svg 2195162x1994_poster_.png" crc="3809305661" ref="phone>contact:contact"/>
     <file name="u14716-6.png" crc="4036264978" ref="phone>contact"/>
     <file name="u14716-6_2x.png" crc="4109710482" ref="phone>contact"/>
     <file name="u14718-9.png" crc="84546467" ref="phone>contact"/>
@@ -1517,8 +1514,6 @@
     <file name="u9882-6_2x.png" crc="3919336538" ref="contact"/>
     <file name="u10481-44.png" crc="4081154208" ref="contact"/>
     <file name="u10481-44_2x.png" crc="168825193" ref="contact"/>
-    <file name="u9887-12.png" crc="4255371396" ref="contact"/>
-    <file name="u9887-12_2x.png" crc="3823227975" ref="contact"/>
     <file name="u2078_states.png" crc="412314428" ref="staysweet"/>
     <file name="u2078_states_2x.png" crc="475744295" ref="staysweet"/>
     <file name="u2078_states-r.png" crc="4237552491" ref="staysweet"/>
@@ -1869,18 +1864,18 @@
     </file>
     <file name="u7630-8.png" crc="3817532501" ref="photography"/>
     <file name="u7630-8_2x.png" crc="3845134828" ref="photography"/>
-    <file name="u15806_states.png" crc="356385423" ref="photography"/>
-    <file name="u15806_states_2x.png" crc="4266026978" ref="photography"/>
-    <file name="u15806_states-r.png" crc="341071947" ref="photography"/>
-    <file name="u15806_states-r_2x.png" crc="313395696" ref="photography"/>
-    <file name="u15805_states.png" crc="4011684189" ref="photography"/>
-    <file name="u15805_states_2x.png" crc="4043807017" ref="photography"/>
-    <file name="u15805_states-r.png" crc="3801892073" ref="photography"/>
-    <file name="u15805_states-r_2x.png" crc="190995800" ref="photography"/>
-    <file name="u15804_states.png" crc="4267612974" ref="photography"/>
-    <file name="u15804_states_2x.png" crc="4018380172" ref="photography"/>
-    <file name="u15804_states-r.png" crc="4290110585" ref="photography"/>
-    <file name="u15804_states-r_2x.png" crc="3904797203" ref="photography"/>
+    <file name="u18991_states.png" crc="356385423" ref="photography"/>
+    <file name="u18991_states_2x.png" crc="4266026978" ref="photography"/>
+    <file name="u18991_states-r.png" crc="341071947" ref="photography"/>
+    <file name="u18991_states-r_2x.png" crc="313395696" ref="photography"/>
+    <file name="u18990_states.png" crc="4191248100" ref="photography"/>
+    <file name="u18990_states_2x.png" crc="3917405053" ref="photography"/>
+    <file name="u18990_states-r.png" crc="3914282332" ref="photography"/>
+    <file name="u18990_states-r_2x.png" crc="4212590187" ref="photography"/>
+    <file name="u18992_states.png" crc="4267612974" ref="photography"/>
+    <file name="u18992_states_2x.png" crc="4018380172" ref="photography"/>
+    <file name="u18992_states-r.png" crc="4290110585" ref="photography"/>
+    <file name="u18992_states-r_2x.png" crc="3904797203" ref="photography"/>
     <file name="u8179-4.png" crc="4272262608" ref="photography"/>
     <file name="u8179-4_2x.png" crc="342859114" ref="photography"/>
     <file name="u5382_states.png" crc="412314428" ref="video-pj"/>
@@ -2882,36 +2877,38 @@
     <file name="u9492-8_2x2.png" crc="151197006" ref="finding-jippy"/>
     <file name="u9476-42.png" crc="4167581285" ref="finding-jippy"/>
     <file name="u9476-4_2x2.png" crc="3960885714" ref="finding-jippy"/>
+    <file name="u9887-9.png" crc="3803917672" ref="contact"/>
+    <file name="u9887-9_2x.png" crc="447039222" ref="contact"/>
   </folder>
   <folder name="phone">
     <folder name="css">
+      <file name="my-dog-eats-better-than-me.css" crc="178644445" ref="phone>my-dog-eats-better-than-me"/>
+      <file name="you-are-my-gravity.css" crc="3938304945" ref="phone>you-are-my-gravity"/>
+      <file name="gimmie-gummy.css" crc="447823484" ref="phone>gimmie-gummy"/>
       <file name="write-right.css" crc="3995996641" ref="phone>write-right"/>
-      <file name="half-moon.css" crc="3919827980" ref="phone>half-moon"/>
-      <file name="painting.css" crc="125745188" ref="phone>painting"/>
-      <file name="i-can-t-see-your-face.css" crc="33253751" ref="phone>i-can-t-see-your-face"/>
-      <file name="ryb-in-taichung.css" crc="163320746" ref="phone>ryb-in-taichung"/>
-      <file name="dino-with-feather.css" crc="3918638895" ref="phone>dino-with-feather"/>
-      <file name="hyde-park-impression.css" crc="4288064191" ref="phone>hyde-park-impression"/>
+      <file name="photography.css" crc="365791217" ref="phone>photography"/>
+      <file name="graphic.css" crc="405923440" ref="phone>graphic"/>
+      <file name="fancy-estate.css" crc="4088291575" ref="phone>fancy-estate"/>
       <file name="contact.css" crc="34853831" ref="phone>contact"/>
       <file name="nomq_contact.css" crc="3824530138" ref="phone>contact"/>
-      <file name="finding-jippy.css" crc="523886984" ref="phone>finding-jippy"/>
-      <file name="fancy-estate.css" crc="3919157849" ref="phone>fancy-estate"/>
-      <file name="video-pj.css" crc="4073215867" ref="phone>video-pj"/>
       <file name="bo.css" crc="4240997546" ref="phone>bo"/>
-      <file name="you-are-my-gravity.css" crc="3938304945" ref="phone>you-are-my-gravity"/>
-      <file name="staysweet.css" crc="4287564839" ref="phone>staysweet"/>
-      <file name="gimmie-gummy.css" crc="447823484" ref="phone>gimmie-gummy"/>
-      <file name="my-dog-eats-better-than-me.css" crc="178644445" ref="phone>my-dog-eats-better-than-me"/>
-      <file name="fall-alone.css" crc="240271106" ref="phone>fall-alone"/>
-      <file name="obsession.css" crc="3795788061" ref="phone>obsession"/>
-      <file name="graphic.css" crc="405923440" ref="phone>graphic"/>
-      <file name="photography.css" crc="365791217" ref="phone>photography"/>
-      <file name="index.css" crc="3902536232" ref="phone>index"/>
+      <file name="i-can-t-see-your-face.css" crc="33253751" ref="phone>i-can-t-see-your-face"/>
+      <file name="dino-with-feather.css" crc="3918638895" ref="phone>dino-with-feather"/>
       <file name="ryb-tunnel.css" crc="357134757" ref="phone>ryb-tunnel"/>
+      <file name="staysweet.css" crc="4287564839" ref="phone>staysweet"/>
+      <file name="obsession.css" crc="3795788061" ref="phone>obsession"/>
+      <file name="finding-jippy.css" crc="523886984" ref="phone>finding-jippy"/>
+      <file name="painting.css" crc="125745188" ref="phone>painting"/>
+      <file name="fall-alone.css" crc="240271106" ref="phone>fall-alone"/>
+      <file name="half-moon.css" crc="3919827980" ref="phone>half-moon"/>
+      <file name="hyde-park-impression.css" crc="4288064191" ref="phone>hyde-park-impression"/>
+      <file name="video-pj.css" crc="4073215867" ref="phone>video-pj"/>
+      <file name="index.css" crc="3902536232" ref="phone>index"/>
+      <file name="ryb-in-taichung.css" crc="163320746" ref="phone>ryb-in-taichung"/>
     </folder>
-    <file name="index.html" crc="4055163004" seo="true" mt="1536854985052" redirect="true"/>
-    <file name="staysweet.html" crc="360005291" seo="true" mt="1536855274583" redirect="true"/>
-    <file name="you-are-my-gravity.html" crc="200402795" seo="true" mt="1536855542699" redirect="true"/>
+    <file name="index.html" crc="3808790125" seo="true" mt="1536854985052" redirect="true"/>
+    <file name="staysweet.html" crc="505660890" seo="true" mt="1536855274583" redirect="true"/>
+    <file name="you-are-my-gravity.html" crc="4126901858" seo="true" mt="1536855542699" redirect="true"/>
     <file name="graphic.html" crc="7816200" seo="true" mt="1536855619543" redirect="true"/>
     <file name="write-right.html" crc="80288837" seo="true" mt="1536855894837" redirect="true"/>
     <file name="photography.html" crc="3864792948" seo="true" mt="1536855948977" redirect="true"/>
@@ -2921,7 +2918,7 @@
     <file name="fall-alone.html" crc="184466902" seo="true" mt="1536856080494" redirect="true"/>
     <file name="hyde-park-impression.html" crc="240440079" seo="true" mt="1536856112302" redirect="true"/>
     <file name="finding-jippy.html" crc="174394005" seo="true" mt="1536856127985" redirect="true"/>
-    <file name="fancy-estate.html" crc="4292716329" seo="true" mt="1536856156811" redirect="true"/>
+    <file name="fancy-estate.html" crc="4015247166" seo="true" mt="1536916587631" redirect="true"/>
     <file name="i-can-t-see-your-face.html" crc="3812537461" seo="true" mt="1536856189608" redirect="true"/>
     <file name="half-moon.html" crc="4172814035" seo="true" mt="1536856242382" redirect="true"/>
     <file name="dino-with-feather.html" crc="4033932081" seo="true" mt="1536856330734" redirect="true"/>
@@ -2933,25 +2930,25 @@
     <file name="contact.html" crc="3841888114" seo="true" mt="1536856814514" redirect="true"/>
   </folder>
   <file name="index.html" crc="481770228" seo="true" mt="1536854384254" redirect="true"/>
-  <file name="contact.html" crc="4124469986" seo="true" mt="1536854697760" redirect="true"/>
+  <file name="contact.html" crc="327739698" seo="true" mt="1536917272156" redirect="true"/>
   <file name="staysweet.html" crc="4074260094" seo="true" mt="1536854526484" redirect="true"/>
   <file name="you-are-my-gravity.html" crc="3863437384" seo="true" mt="1536854533602" redirect="true"/>
   <file name="write-right.html" crc="4058477307" seo="true" mt="1536854543928" redirect="true"/>
   <file name="graphic.html" crc="504644188" seo="true" mt="1536854539112" redirect="true"/>
   <file name="obsession.html" crc="4184912733" seo="true" mt="1536854678603" redirect="true"/>
-  <file name="photography.html" crc="515495841" seo="true" mt="1536741259920" redirect="true"/>
-  <file name="video-pj.html" crc="3813887685" seo="true" mt="1536854685534" redirect="true"/>
-  <file name="painting.html" crc="269783161" seo="true" mt="1536854691127" redirect="true"/>
+  <file name="photography.html" crc="3765600598" seo="true" mt="1536916151114" redirect="true"/>
+  <file name="video-pj.html" crc="4046369552" seo="true" mt="1536854685534" redirect="true"/>
+  <file name="painting.html" crc="365560827" seo="true" mt="1536854691127" redirect="true"/>
   <file name="ryb-in-taichung.html" crc="104882699" seo="true" mt="1536854552030" redirect="true"/>
   <file name="gimmie-gummy.html" crc="4212419170" seo="true" mt="1536854563200" redirect="true"/>
-  <file name="fall-alone.html" crc="3877433808" seo="true" mt="1536854592450" redirect="true"/>
-  <file name="hyde-park-impression.html" crc="4044065756" seo="true" mt="1536854600904" redirect="true"/>
-  <file name="fancy-estate.html" crc="3989794564" seo="true" mt="1536854616160" redirect="true"/>
+  <file name="fall-alone.html" crc="413014724" seo="true" mt="1536854592450" redirect="true"/>
+  <file name="hyde-park-impression.html" crc="4045688867" seo="true" mt="1536854600904" redirect="true"/>
+  <file name="fancy-estate.html" crc="3774307943" seo="true" mt="1536854616160" redirect="true"/>
   <file name="i-can-t-see-your-face.html" crc="4008873057" seo="true" mt="1536854629061" redirect="true"/>
-  <file name="half-moon.html" crc="4291345888" seo="true" mt="1536854646583" redirect="true"/>
+  <file name="half-moon.html" crc="17481859" seo="true" mt="1536854646583" redirect="true"/>
   <file name="dino-with-feather.html" crc="3896100565" seo="true" mt="1536854654349" redirect="true"/>
   <file name="ryb-tunnel.html" crc="4022353613" seo="true" mt="1536854661355" redirect="true"/>
   <file name="bo.html" crc="226932739" seo="true" mt="1536854667467" redirect="true"/>
-  <file name="my-dog-eats-better-than-me.html" crc="3931797108" seo="true" mt="1536854578394" redirect="true"/>
-  <file name="finding-jippy.html" crc="339394940" seo="true" mt="1536854608752" redirect="true"/>
+  <file name="my-dog-eats-better-than-me.html" crc="4204700928" seo="true" mt="1536854578394" redirect="true"/>
+  <file name="finding-jippy.html" crc="3967554658" seo="true" mt="1536854608752" redirect="true"/>
 </manifest>
