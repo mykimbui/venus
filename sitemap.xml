@@ -2,10 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://venusportfolio.com/index.html</loc>
-    <lastmod>2018-09-13</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/index.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-730771x499.svg</image:loc>
     </image:image>
@@ -51,10 +50,9 @@
   </url>
   <url>
     <loc>http://venusportfolio.com/obsession.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/obsession.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -64,10 +62,9 @@
   </url>
   <url>
     <loc>http://venusportfolio.com/photography.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/photography.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -75,16 +72,22 @@
       <image:loc>http://venusportfolio.com/images/pasted-svg-357241x60.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://venusportfolio.com/images/_1260130.jpg</image:loc>
+      <image:loc>http://venusportfolio.com/images/_1210740208x293.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://venusportfolio.com/images/_1260130_2x.jpg</image:loc>
+      <image:loc>http://venusportfolio.com/images/_1210740208x293_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://venusportfolio.com/images/_1120197-crop-u7244.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://venusportfolio.com/images/_1120197-crop-u7244_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/p1200916%202234x293.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/p1200916%202234x293_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://venusportfolio.com/images/_1250569-crop-u7288.jpg</image:loc>
@@ -99,10 +102,28 @@
       <image:loc>http://venusportfolio.com/images/_1200166-crop-u7218_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://venusportfolio.com/images/_1110735246x295.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/_1110735246x295_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://venusportfolio.com/images/_1200603-crop-u10063.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://venusportfolio.com/images/_1200603-crop-u10063_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/_1110412202x293.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/_1110412202x293_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/_1260130.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/_1260130_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://venusportfolio.com/images/_1180029-crop-u7266.jpg</image:loc>
@@ -125,10 +146,9 @@
   </url>
   <url>
     <loc>http://venusportfolio.com/my-dog-eats-better-than-me.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/my-dog-eats-better-than-me.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -165,43 +185,12 @@
     <image:image>
       <image:loc>http://venusportfolio.com/images/_1260365-edit_2x.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1260357-edit439x568.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1260357-edit439x568_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1260365-edit443x573.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1260365-edit443x573_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1260130%202493x638.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1260130%202493x638_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1260309%202494x638.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1260309%202494x638_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1260350492x636.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1260350492x636_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://venusportfolio.com/bo.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/bo.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -235,10 +224,9 @@
   </url>
   <url>
     <loc>http://venusportfolio.com/finding-jippy.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/finding-jippy.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -248,10 +236,9 @@
   </url>
   <url>
     <loc>http://venusportfolio.com/dino-with-feather.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/dino-with-feather.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -285,10 +272,9 @@
   </url>
   <url>
     <loc>http://venusportfolio.com/half-moon.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/half-moon.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -313,31 +299,12 @@
     <image:image>
       <image:loc>http://venusportfolio.com/images/_1250576_2x.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1250569515x359.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1250569515x359_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1250595515x329.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1250595515x329_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1250576515x370.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1250576515x370_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://venusportfolio.com/ryb-tunnel.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/ryb-tunnel.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -362,10 +329,9 @@
   </url>
   <url>
     <loc>http://venusportfolio.com/fancy-estate.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/fancy-estate.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -390,31 +356,12 @@
     <image:image>
       <image:loc>http://venusportfolio.com/images/_1170662_2x.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1170660548x465.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1170660548x465_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1170662548x366.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1170662548x366_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1170658548x366.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1170658548x366_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://venusportfolio.com/hyde-park-impression.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/hyde-park-impression.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -451,51 +398,17 @@
     <image:image>
       <image:loc>http://venusportfolio.com/images/_1120264_2x.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1120197554x349.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1120197554x349_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1120195556x417.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1120195556x417_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/img_6601554x369.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/img_6601554x369_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1120310549x412.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1120310549x412_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1120264554x416.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1120264554x416_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://venusportfolio.com/contact.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/contact.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-357241x60.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/pasted-svg-2195162x1994.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://venusportfolio.com/images/img_7107-2.jpg</image:loc>
@@ -503,39 +416,20 @@
     <image:image>
       <image:loc>http://venusportfolio.com/images/img_7107-2_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/pasted-svg-2195162x1994.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://venusportfolio.com/staysweet.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/staysweet.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-357241x60.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/newgif.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/newgif2.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/newgif2_2x.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/00005_5_1.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/00005_5_1_2x.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/00005_5_2.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/00005_5_2_2x.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://venusportfolio.com/images/_1250277-edit.jpg</image:loc>
@@ -573,13 +467,33 @@
     <image:image>
       <image:loc>http://venusportfolio.com/images/%E9%A3%B4%E7%B4%B0%E5%B7%A52_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/newgif.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/newgif2.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/newgif2_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/00005_5_1.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/00005_5_1_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/00005_5_2.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/00005_5_2_2x.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://venusportfolio.com/you-are-my-gravity.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/you-are-my-gravity.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -588,6 +502,9 @@
     </image:image>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-2407146x961.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/pasted-svg-2155818x1431.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-126095x85.svg</image:loc>
@@ -603,24 +520,6 @@
     </image:image>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-1059x158.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/pasted-svg-432791x740.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/pasted-svg-78573x131.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/pasted-svg-430181x739.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/pasted-svg-436084x277.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/pasted-svg-266951x102.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/pasted-svg-2155818x1431.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://venusportfolio.com/images/mockup1.jpg</image:loc>
@@ -640,13 +539,27 @@
     <image:image>
       <image:loc>http://venusportfolio.com/images/mockup3_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/pasted-svg-432791x740.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/pasted-svg-78573x131.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/pasted-svg-436084x277.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/pasted-svg-430181x739.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/pasted-svg-266951x102.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://venusportfolio.com/write-right.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/write-right.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -680,10 +593,9 @@
   </url>
   <url>
     <loc>http://venusportfolio.com/graphic.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/graphic.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -691,19 +603,22 @@
       <image:loc>http://venusportfolio.com/images/pasted-svg-357241x60.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://venusportfolio.com/images/pasted-svg-284819x270.svg</image:loc>
+      <image:loc>http://venusportfolio.com/images/artboard%201%20copy%202.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://venusportfolio.com/images/pasted-svg-293451x255.svg</image:loc>
+      <image:loc>http://venusportfolio.com/images/artboard%201%20copy%202_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://venusportfolio.com/images/pasted-svg-259225x279.svg</image:loc>
+      <image:loc>http://venusportfolio.com/images/artboard%201%20copy%203.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://venusportfolio.com/images/pasted-svg-324118x324.svg</image:loc>
+      <image:loc>http://venusportfolio.com/images/artboard%201%20copy%203_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://venusportfolio.com/images/pasted-svg-376479x246.svg</image:loc>
+      <image:loc>http://venusportfolio.com/images/artboard%201%20copy%205.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/artboard%201%20copy%205_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://venusportfolio.com/images/adobe%20eraser.jpg</image:loc>
@@ -724,10 +639,25 @@
       <image:loc>http://venusportfolio.com/images/adobe%20bucket_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://venusportfolio.com/images/ig_template-crop-u7661.jpg</image:loc>
+      <image:loc>http://venusportfolio.com/images/pasted-svg-284819x270.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://venusportfolio.com/images/ig_template-crop-u7661_2x.jpg</image:loc>
+      <image:loc>http://venusportfolio.com/images/pasted-svg-293451x255.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/ig_template.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/ig_template_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/pasted-svg-259225x279.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/pasted-svg-324118x324.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://venusportfolio.com/images/pasted-svg-376479x246.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://venusportfolio.com/images/venus%20cheung%20advertising%20future-12.jpg</image:loc>
@@ -750,10 +680,9 @@
   </url>
   <url>
     <loc>http://venusportfolio.com/painting.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/painting.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -793,46 +722,12 @@
     <image:image>
       <image:loc>http://venusportfolio.com/images/8095de93-8fbd-4bdb-a6ae-a3d3ba24fde9.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/img_6177300x466.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/img_6177300x466_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/ccb40438-accd-4422-b75d-8832850ecd69329x438.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/ccb40438-accd-4422-b75d-8832850ecd69329x438_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/8095de93-8fbd-4bdb-a6ae-a3d3ba24fde9311x553.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/ddc6e516-9f46-4438-b80a-90f1bb322cf5327x582.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/ddc6e516-9f46-4438-b80a-90f1bb322cf5327x582_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/c126b961-16d5-45ef-880f-70dff704f88a330x439.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/c126b961-16d5-45ef-880f-70dff704f88a330x439_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/5671a7a9-b9ce-4590-af1e-fd2cf1426fc8359x478.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/5671a7a9-b9ce-4590-af1e-fd2cf1426fc8359x478_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://venusportfolio.com/i-can-t-see-your-face.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/i-can-t-see-your-face.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -866,10 +761,9 @@
   </url>
   <url>
     <loc>http://venusportfolio.com/video-pj.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/video-pj.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -879,10 +773,9 @@
   </url>
   <url>
     <loc>http://venusportfolio.com/gimmie-gummy.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/gimmie-gummy.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -904,10 +797,9 @@
   </url>
   <url>
     <loc>http://venusportfolio.com/ryb-in-taichung.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/ryb-in-taichung.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -935,10 +827,9 @@
   </url>
   <url>
     <loc>http://venusportfolio.com/fall-alone.html</loc>
-    <lastmod>2018-09-14</lastmod>
+    <lastmod>2018-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://venusportfolio.com/phone/fall-alone.html"/>
     <image:image>
       <image:loc>http://venusportfolio.com/images/pasted-svg-297779x248.svg</image:loc>
     </image:image>
@@ -962,24 +853,6 @@
     </image:image>
     <image:image>
       <image:loc>http://venusportfolio.com/images/_1110453_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1110735444x533.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1110735444x533_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1110618447x298.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1110618447x298_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1110453447x298.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://venusportfolio.com/images/_1110453447x298_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
